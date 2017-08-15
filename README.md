@@ -1,5 +1,7 @@
 # aa-prof-nuevo
 
+STATUS: Incomplete
+
 This project is 2 parts:
 
 - JSON specification for apparmor profiles
